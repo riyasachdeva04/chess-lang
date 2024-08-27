@@ -49,7 +49,7 @@ public:
             }
             cout << endl;
         }
-        cout << "  a b c d e f g h" << endl;
+        cout << "a b c d e f g h" << endl;
     }
 
     void movePiece(const string& start, const string& end) {
